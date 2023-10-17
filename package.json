@@ -1,0 +1,23 @@
+{
+  "name": "environment-git",
+  "version": "1.0.0",
+  "description": "For class works",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demafogotto/environment-git.git"
+  },
+  "author": "Dem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demafogotto/environment-git/issues"
+  },
+  "homepage": "https://github.com/Demafogotto/environment-git#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
